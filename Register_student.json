@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spartan-alcove-451615-g6",
+  "private_key_id": "22d37c4f2f4bab399d7ecdc241d11c3b6f348d50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1OwTDlaze5pd/\nLJ1FUWFNBQYj3kqr5gg2/1I0C28LQEDh5IpTpcwyUZ1GYg2wQZEBJLhwN4iOLn5W\nxQqw+w7X6bedpMI5Jvy4aIcmICp1TtKU+Lp+FoRu6rMbR85vhQfPCo4LDJNXurU2\njZInTVBA5VhzgBO4jh9Ijc+yg6JaIy4SEVhzYxBIXRWUJs6ggWj9KDwpTkXXdDPX\nwMGo49s1M5budzn2M7DG5w+PcH1aEC1sU5/ksKFThpwXCXG1ZWgA+CcVbYjtzKiB\nnT43eVvAtLPmhf34k/dDydyAVmRdBEte5oAzEq5v2vPoqc2fG3Gn/wwtv8exRoPU\nu5yYAM7xAgMBAAECggEAAuHUplChzmyv4Zmhyams6Lbo/VaKbPfsTwWZ9tJsumrT\n7VO/YGutVuqF3Anwqkospm5BUaWMcihqoXIiRKTFfGkO3r6xSQvl7n/ZEGHoEvQF\nNNHM03cDtajdXtRyQ8NDl8cU8beKO1WwjpTLS303BsUu9i1GAwQdmr+Im0/tG85X\nDc5yyK1YFrsmZxkQDE5S8MEWOtG4me1+A9MDcHVoyJKLcwCqk4SQyALMMRXS/Y7w\njVX+HlXIgMDfqBOLKMsq16Va1jTlvfyeq1liKZ+tGvkhtK7ohXuXl2luYKQtFMrm\nHMaNfZMiTn55cVVehe0YK/aXbuxaHg4zQSQgFNHanQKBgQDnA5N1euLleMeZng43\n2w0rPETZx7MYqhU2ab6oKeuDeM9X3vod9B5FtSVJ3PpVwrDDVXcs58pfqicltIBz\n8u4PH+vUOFzy7964v0DRXn5xO3lxANthuCvGBAEEnGoqSv2mF799sP7z/Q2Prc7r\nTqE9p+6ugTkwu+arzNj/KoX3XQKBgQDI1QP5ahHRQ1YUrXYyWA+JcocoMRuYWtmC\nHGSm+zsXsb/L+YncxsrcGSrpCLuGPwb2lD2K6r9deCfpmBfS//nM+0gDopxL16Vw\niM+eheBk3Xl7jv6/R5BFooTrRtWDdTNvA5DOxfYJgeaFns7iPedrb3NQ1iZrIzpP\ncTmx46PgpQKBgAKSvZ+/YKuhrsd9RTdGD1197F5opQwPSPE0OFVzMhZi0BxwdWTE\nBVpNbD7oYTl3U7S5TPyJEG4EXS9EVXH1MMWmW2AfyJlEJrz0FGrAnLPyL6YcllT+\nUi6AeOpuO5iBAVZKSW3C/PQGy5HgI7/nPlCLgFMdSV/LmAQt4fTlqlxZAoGAPbCJ\nJvz4+iHH+FQMIYzBQQQoFiV3h4Yol/nmxRAY579W3e4J9gIuYAtvDeP7zlHf7rA8\nc0aGf8yf3fY1I0Az2E47obo6bmWQURAFTnlrIzCQ125mPBVccLdqQucgQOAoa2pZ\n+dn/KI55ZAQTIpXHV04FywftBy3sBGkQQt9dAG0CgYBDCBNJO9VeJYmy3kJSUy+f\nlU+UPDv5eQ+RtouMnktAHBABP2+Pxj+FqgNKtD3L36NlDSVZsY/eV8OMKg0g+d+k\nHAt06+aLgYIdWkYWPVM9cEAvLiiONwD88w+1Xnx3GlSCxjQpEBIysP1hGsqoHbKN\nX2CQHxYDtc6wY/EVwdj9Yg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "register-bot-cse-bot@spartan-alcove-451615-g6.iam.gserviceaccount.com",
+  "client_id": "102251023581639851392",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/register-bot-cse-bot%40spartan-alcove-451615-g6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
