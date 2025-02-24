@@ -8,7 +8,7 @@ import asyncio
 
 # Google Sheets Setup
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name('E:/RegisterStudentBOT/Register_student.json', scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name('Register_student.json', scope)
 client = gspread.authorize(creds)
 sheet = client.open("Register Student").sheet1  # Replace with your Google Sheet name
 
